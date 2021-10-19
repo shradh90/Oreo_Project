@@ -1,0 +1,32 @@
+.listContainer{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    
+}
+
+.headerlist{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color:rgb(116, 101, 199);
+    height: 100px;
+    color: white;
+    align-items: flex-start;
+ 
+}
+.headerList1{
+    width: 100%;
+    text-align: left;
+    font-size: 25px;
+    height: 50%;
+}
+.headerList2{
+    width:100%;
+    text-align: left;
+    height: 18px;
+    height: 50%;
+
+}
+

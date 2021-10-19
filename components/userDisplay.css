@@ -1,0 +1,84 @@
+.userContainer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    flex-direction: column; 
+    margin: 10px ;
+}
+.image1{
+    border-radius: 50px;
+    height: 10%;
+    width: 10%;
+    
+    vertical-align: bottom !important;
+    border: 3px solid #fff;
+    box-shadow: 0px 5px 25px 0px rgb(0 0 0 / 20%);
+}
+
+
+
+.userHeader{
+    height: 5%;
+    display: flex; 
+    flex-direction: column; 
+}
+.logo2{
+   
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.userMidContainer{
+  
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: 20px;
+    position:relative;
+   
+}
+.mid1{
+    width: 100%;
+    height: 10%;
+    font-size: 15px;
+ 
+}
+.mid8{
+    height: 10%;
+    display: flex;
+    width: 100%;
+    font-size: 16px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.mid2{
+    border: cornflowerblue;
+    width: 100%;
+    font-size: 16px;
+    height: 10%;
+    width: 100%;
+}
+
+.border{
+    border:1px solid rgb(87, 84, 84);
+    font-size: 15px;
+}
+.color1{
+    color: rgb(92, 87, 87);
+    width: 95%;
+}
+.mid9{
+    display: flex;
+    width: 100%;
+    font-size: 20px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}

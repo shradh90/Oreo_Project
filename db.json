@@ -1,0 +1,630 @@
+{
+    "products":[
+        {
+            "id" : 1,
+            "name": "Small Black Clock",
+            "Price": "$12",
+            "DiscountedPrice": "$8",
+            "StockStatus": "InStock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/1.png"
+        }, {
+            "id" : 2,
+            "name": "simple black clock",
+            "Price": "$12",
+            "DiscountedPrice": "$11",
+            "StockStatus": "low Stock",
+            "SmallDesc": " It is a long established will be distracted",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/15.png"
+        }, {
+            "id" : 3,
+            "name": "Brone Candle",
+            "Price": "$23",
+            "DiscountedPrice": "$17",
+            "StockStatus": "low Stock",
+            "SmallDesc": "There passages of Loem Ipsum available",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/13.png"
+        },  {
+            "id" : 4,
+            "name": "simple black clock",
+            "Price": "$26",
+            "DiscountedPrice": "$18",
+            "StockStatus": "out of Stock",
+            "SmallDesc": " It is a long established fact that a distracted",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/4.png"
+        },  {
+            "id" : 5,
+            "name": "Brone Candle",
+            "Price": "$18",
+            "DiscountedPrice": "$15",
+            "StockStatus": "low Stock",
+            "SmallDesc": "Contrary to popular belief, simply random text",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/5.png"
+        },  {
+            "id" : 6,
+            "name": "Unero Small Bag",
+            "Price": "$20",
+            "DiscountedPrice": "$18",
+            "StockStatus": "InStock",
+            "SmallDesc": "All the Lorem Ipsum generators on predefined chunks",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/14.png"
+        },  {
+            "id" : 7,
+            "name": "Unero round sunglass",
+            "Price": "$21",
+            "DiscountedPrice": "$18",
+            "StockStatus": "low Stock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/7.png"
+        },  {
+            "id" : 8,
+            "name": "Wood simple clock",
+            "Price": "$20",
+            "DiscountedPrice": "$18",
+            "StockStatus": "out of Stock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/8.png"
+        } , {
+            "id" : 9,
+            "name": "Wood Simple CLlock",
+            "Price": "$19",
+            "DiscountedPrice": "$28",
+            "StockStatus": "InStock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/9.png"
+        }, {
+            "id" : 10,
+            "name": "simple black clock",
+            "Price": "$17",
+            "DiscountedPrice": "$0",
+            "StockStatus": "out of Stock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/10.png"
+        }, {
+            "id" : 11,
+            "name": "Wood Simple Clock",
+            "Price": "$16",
+            "DiscountedPrice": "$13",
+            "StockStatus": "InStock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/11.png"
+        }, {
+            "id" : 12,
+            "name": "simple black clock",
+            "Price": "$15",
+            "DiscountedPrice": "$18",
+            "StockStatus": "InStock",
+            "SmallDesc": "randomised words even slightly believable",
+            "LongDescParaOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "LongDescParaTwo": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "About": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+            "reviews": [
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar3.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                },
+                {
+                    "name": "Hossein Shams",
+                    "review": "ras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo.",
+                    "productBought": "iphone8",
+                    "rating": 4,
+                    "img" : "https://thememakker.com/templates/oreo/html/assets/images/xs/avatar2.jpg"
+                }
+            ],
+            "sizes": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "colors": [
+                "yellow",
+                "green",
+                "blue"
+            ],
+            "NoOfReviews": 43,
+            "avgRating": 4,
+            "PercentageOfBuyers": 78,
+            "NoOfVotes": 23,
+            "OtherImgUrls": [
+                "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/2.png"
+            ],
+            "MainImg": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/12.png"
+        }
+
+    ]
+}

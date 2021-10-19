@@ -1,0 +1,268 @@
+.productDetailContainer{
+    display: flex;
+    height: 150vh;
+    width: 100vw;
+    flex-direction: column;
+
+    
+}
+
+
+
+.headerDetails{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color:rgb(116, 101, 199);
+    height: 100px;
+    color: white;
+    align-items: flex-start;
+ 
+}
+.headerDetails1{
+    width: 100%;
+    text-align: left;
+    font-size: 25px;
+    height: 50%;
+}
+.headerDetails2{
+    width:100%;
+    text-align: left;
+    height: 18px;
+    height: 50%;
+
+}
+.allDetails{
+    display: flex;
+  
+    /* height: 100%; */
+    width: 100%;
+   height: 100%;
+    padding:10px 10px;
+    margin: 10px 10px;
+     /* position:relative; */
+     font-family: 'Montserrat', Arial, Tahoma, sans-serif;
+     background-color: white;
+     flex-direction: column;
+     background-color: #dfe1ec;
+}
+.midDetails{
+    display: flex;
+    color: #424242;
+    font-weight: 400;
+    padding: 20px;
+    height: 65%;
+    width: 100%;
+    flex-direction: row; 
+    background-color: white;
+}
+.imageDetails{
+    display: flex;
+   flex-direction: column;
+    height: 85%;
+    width: 30%;
+   justify-content: space-around;
+   
+}
+.textDetails{
+    display: flex;
+    margin: 2px 5px;
+    padding: 2px 5px;
+    height: 100%;
+    width: 60%;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: left;
+}
+.footerDetails{
+    display: flex;
+    position: relative;
+    width: 100%;
+    padding: 10px 10px;
+    height: 55%;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'Montserrat', Arial, Tahoma, sans-serif;
+    font-weight: 400;
+}
+.footerDetails1{
+    display: flex;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: 'Montserrat', Arial, Tahoma, sans-serif;
+    height: 15%;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: left;
+    background-color: white;
+    margin: 10px 10px;
+    padding: 10px 5px;    
+   
+}
+.buttons{
+    border-radius: 24px;
+    width: 80px;
+    height: 40px;
+   
+    margin: 2px;
+    background-color: white;
+    padding: 15px .7rem;
+    
+    
+}
+.buttons:hover{
+    border-color: blue;
+}
+.textheading{
+    text-align: left;
+    font-size: 30px;
+}
+.textheading2{
+    text-align: left;
+    font-size: 20px;
+}
+.textheading3{
+    text-align: left;
+    font-size: 16px;
+}
+
+.textDetails1{
+    flex-direction: column;
+
+}
+.textDetails24{
+    border-radius: 50px;
+    height: 40px;
+    cursor: pointer;
+    background: #6572b8;
+    display: inline-block;
+    overflow: hidden;
+    border-width: 1px;
+    border-radius: 30px !important;
+    padding: 11px 23px;
+    font-weight: 400;
+    font-size: .8571em;
+    line-height: 1.35em;
+    margin: 5px 1px;
+    border: none;
+    color: white;
+
+}
+.textDetails25{
+    border-radius: 50px;
+    height: 40px;
+    background: #6572b8;
+    height: 2.375rem;
+    min-width: 2.375rem;
+    width: 2.375rem;
+    padding: 0;
+    font-size: .9375rem;
+    overflow: hidden;
+    position: relative;
+    line-height: normal;
+    display: inline-block;
+    border-width: 1px;
+    border-radius: 30px !important;
+    margin: 5px 1px;
+    border: none;
+    color: white;
+   
+}
+.textDetails22{
+    font-size: 24px;
+}
+.textDetails23{
+    font-size: 24px;
+}
+
+.textheading21{
+    display: flex ;
+    flex-direction: row;
+    display: inline-block;
+    height: 30%;
+   
+}
+.imageDetails1{
+    height: 15%;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid red;
+}
+.imageDetails6{
+    height: 70%;
+    width: 96%; 
+ 
+
+}
+.imagebox{
+    width: 20%;
+    height: 100%;
+
+}
+.image1{
+    height: 100%;
+    width: 100%;
+
+}
+.textDetails231{
+
+    display: flex ;
+    flex-direction: row;
+    height: 100% ;
+    width: 40%;
+}
+.color1{
+    width: 30%;
+    color: black;
+}
+.color2{
+    background-color: yellow;
+    width: 20%;
+    height: 100%;
+    margin: 0 2px;
+    padding: 0 3px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+
+}
+.color3{
+    background-color:  #50d38a;
+  
+    margin: 0 2px;
+    padding: 0 3px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+}
+
+.color4{
+    background-color: skyblue;
+    width: 20%;
+    height: 100%;
+    margin: 0 2px;
+    padding: 0 3px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+}
+.footerDetails2{
+    background-color: white;
+    margin: 10px ;
+    padding: 10px ;
+    height: 50%;
+}
+.Description{
+    width: 100px;
+}

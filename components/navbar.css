@@ -1,0 +1,35 @@
+.navbarContainer{
+    width: 100%;
+    height: 100%;
+  border: 2px solid whitesmoke;
+}
+.navbarButtons{
+    height: 10%;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    color: gray;
+    justify-content: space-around;
+}
+.navbarContent{
+    height: 90%;
+    width: 100%;
+   
+}
+.home{
+    border-radius: 25px;
+    width: 40%;
+    height: 40%;
+    align-items: center;
+    font-size: 16px;
+    color: gray;
+   
+}
+.user{
+    border-radius: 25px;
+    width: 40%;
+    height: 40%;  
+    font-size: 16px;
+    align-items: center;
+     color: gray;
+}

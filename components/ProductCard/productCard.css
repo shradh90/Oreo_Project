@@ -1,0 +1,60 @@
+.product{
+    height: 30%;
+    width: 20%;
+    display: flex;
+   border : 10px solid white;
+   flex-direction: column;
+   margin: 25px;
+   background-color: white;
+  
+}
+
+
+.headding{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.prize{
+    font-size: 18px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.image{
+    height: 280px;
+    width : 280px;
+    overflow: hidden;
+    align-self: center;
+    border: 2px darkgray;
+}
+.picture {
+    height: 100%;
+  max-width: 100%;
+  border : 10px solid white;
+
+
+ 
+}
+
+.picture:hover{
+ 
+    height: 120%;
+     height: 80%;
+    width: 100%; 
+    position: relative;
+    bottom: 10%;   
+
+}
+
+.picture:hover > .boxes {
+
+ display: block;
+
+}
+.boxes{
+    color: rgb(28, 56, 151);
+}
+.prize2{
+    color: red;
+}
